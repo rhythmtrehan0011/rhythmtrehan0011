@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Rhythm Trehan
 
-🎓 Computer Science Student | 💻 Full-Stack & Python Developer | 🚀 Tech Enthusiast  
-📍 B.E. in Computer Science
+🎓 Computer Science Student | 💻 Full-Stack & Java Developer | 🌱 Always Learning  
+📍 Pursuing B.E. in Computer Science
 
 ---
 
 ## 🚀 About Me
 
-I'm an aspiring developer passionate about building functional, user-friendly, and scalable software solutions. Whether it’s full-stack web apps or Python-based systems, I enjoy solving real-world problems through code.
+Hi there! I'm a curious and motivated computer science student who enjoys turning ideas into working software. I love exploring web development, solving problems, and building projects that make everyday tasks easier. While I'm still learning, I enjoy experimenting with new tools and improving my coding skills every day.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technologies I Work With
 
 **Frontend**  
 HTML • CSS • JavaScript • React.js  
@@ -22,57 +22,57 @@ Node.js • Express.js
 **Databases**  
 MongoDB • MySQL  
 
-**Programming Languages**  
-Python • Java • JavaScript • C++
+**Languages**  
+Java • JavaScript • C++ • Python
 
-**Tools & Skills**  
-Git • GitHub • REST APIs • Problem Solving • DBMS • Operating Systems  
+**Other Tools**  
+Git • GitHub • REST APIs • DBMS • Operating Systems
 
 ---
 
-## 🧠 Featured Projects
+## 💡 Projects I've Built
 
 ### 🏨 Hotel Management System  
-A comprehensive system to manage hotel bookings, room details, and customer records.
+A simple system to manage hotel room bookings and customer records.
 
-- Built with a modular structure and a user-friendly interface  
-- Focused on room allocation, check-in/out, billing, and admin control
+- Easy room allocation, check-in/check-out, and billing features  
+- Built with clean structure and basic UI  
 
 ---
 
 ### 📰 News Aggregator  
-A web-based app that pulls live news articles from multiple sources and presents them in a clean interface.  
+A web app that fetches news articles from different sources and displays them neatly.
 
-- Real-time API integration  
-- Category filters and responsive UI  
-
----
-
-### 🔍 Google Search Engine Clone  
-A front-end clone mimicking Google’s search interface and results layout.
-
-- Clean UI/UX  
-- Search input design and mock results page
+- Uses APIs to fetch real-time news  
+- Clean interface with category filters
 
 ---
 
-### 🚗 Vehicle Parking Management System (Python)  
-A Python-based terminal project to manage vehicle entries and exits in a parking facility.
+### 🔍 Google Search Clone  
+A basic front-end project that looks like Google’s search page.
 
-- Tracks vehicle details, timestamps, and slot availability  
-- Uses file handling for data storage
-
----
-
-## 🌱 Currently Learning
-
-- Advanced backend architecture with Express.js  
-- Full-stack app deployment  
-- Deeper understanding of data structures and algorithms  
+- Designed to practice UI layout and styling  
+- Includes a mock results page
 
 ---
 
-## 📫 Connect with Me
+### 🚗 Vehicle Parking System (Python)  
+A Python terminal app to track vehicles entering and exiting a parking lot.
+
+- Uses file handling to store data  
+- Tracks slot availability and entry time
+
+---
+
+## 🌱 What I'm Learning Now
+
+- How to build backend systems with Express.js  
+- How to deploy full-stack apps  
+- Improving my data structures and algorithms knowledge
+
+---
+
+## 📫 Get in Touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rhythmtrehan0011)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/rhythmtrehan0011/)  
@@ -80,8 +80,8 @@ A Python-based terminal project to manage vehicle entries and exits in a parking
 
 ---
 
-## ⚡ Fun Fact
+## ✨ Fun Fact
 
-> “Great code is born from great curiosity.”
+> "The best way to learn is by building things — even small ones count."
 
-I believe in building with curiosity, consistency, and a desire to always improve.
+---
