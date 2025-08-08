@@ -56,7 +56,7 @@ A basic front-end project that looks like Google’s search page.
 
 ---
 
-### 🚗 Vehicle Parking System (Python)  
+### 🚗 Vehicle Parking System (java)  
 A Python terminal app to track vehicles entering and exiting a parking lot.
 
 - Uses file handling to store data  
